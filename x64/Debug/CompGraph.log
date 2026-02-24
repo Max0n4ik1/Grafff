@@ -1,0 +1,4 @@
+﻿  CompGraph.cpp
+C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(47,28): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(47,23): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  CompGraph.vcxproj -> C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\x64\Debug\CompGraph.exe
