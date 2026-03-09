@@ -1,6 +1,4 @@
 ﻿  CompGraph.cpp
-C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(56,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
-C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(59,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
-C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(63,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
-C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(66,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(121,29): warning C4244: инициализация: преобразование "GLint" в "float", возможна потеря данных
+C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\CompGraph\CompGraph.cpp(122,15): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
   CompGraph.vcxproj -> C:\Users\marti\source\repos\Мартыненко З.Д. АСУб-24-2\x64\Debug\CompGraph.exe
